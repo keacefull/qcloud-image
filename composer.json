@@ -1,0 +1,16 @@
+{
+    "name": "keacefull/qcloud-image",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "xiaomin",
+            "email": "keacefull@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "QcloudImage\\": "src/"
+        }
+    }
+}
