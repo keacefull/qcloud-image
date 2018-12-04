@@ -1,5 +1,6 @@
 {
     "name": "keacefull/qcloud-image",
+    "minimum-stability": "stable",
     "license": "MIT",
     "authors": [
         {
